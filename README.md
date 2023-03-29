@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**rafadot/rafadot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Rafael Aires ✌️😉
+<div><br/></div>
 
-Here are some ideas to get you started:
+## Se quiser falar comigo 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-aires-9b720223b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_airesm/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaelairesdemedeiros@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelairesdemedeiros@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585986255462?text=Ol%C3%A1%2C+te+encontrei+pelo+GitHub.+Vamos+trocar+uma+ideia%3F)
+
+## GitHub
+
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafadot&show_icons=true&theme=radical&bg_color=DEG,a49aff,616cdc,203d8c,001242,000002)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadot&layout=compact&theme=radical&bg_color=DEG,a49aff,616cdc,203d8c,001242,000002)](https://github.com/rafadot/github-readme-stats)
+
+## Skills
+<div><br/></div>
+<div style="display:inline_block">
+    <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img aling="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img aling="center" alt="security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+    <img aling="center" alt="swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+    <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img aling="center" alt="psql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img aling="center" alt="gcloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+
+</div>
