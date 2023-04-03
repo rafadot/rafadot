@@ -12,9 +12,13 @@
 
 ## GitHub
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafadot&show_icons=true&theme=radical&bg_color=DEG,a49aff,616cdc,203d8c,001242,000002)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafadot&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadot&layout=compact&theme=radical&bg_color=DEG,a49aff,616cdc,203d8c,001242,000002)](https://github.com/rafadot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadot&layout=compact&theme=radical)](https://github.com/rafadot/github-readme-stats)
+
+<!-- ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafadot&show_icons=true&theme=radical&bg_color=DEG,a49aff,616cdc,203d8c,001242,000002)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadot&layout=compact&theme=radical&bg_color=DEG,a49aff,616cdc,203d8c,001242,000002)](https://github.com/rafadot/github-readme-stats) -->
 
 ## Skills
 <div><br/></div>
