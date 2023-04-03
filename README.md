@@ -41,9 +41,9 @@
 <div><br/></div>
 <div style="display:inline_block">
     <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img aling="center" alt="css" src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img aling="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="html" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <img aling="center" alt="css" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
     <img aling="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img aling="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <div><br/></div>
@@ -62,6 +62,17 @@
 <div><br/></div>
 <div style="display:inline_block">
     <img aling="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img aling="center" alt="trello" src="	https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+    <img aling="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
     <div><br/></div>
 </div>
+
+## Setup
+<div><br/></div>
+<div style="display:inline_block">
+    <img aling="center" alt="windows" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img aling="center" alt="processor" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <img aling="center" alt="graphic" src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=whit">
+    <div><br/></div>
+</div>
+
+
