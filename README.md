@@ -20,6 +20,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadot&layout=compact&theme=radical&bg_color=DEG,a49aff,616cdc,203d8c,001242,000002)](https://github.com/rafadot/github-readme-stats) -->
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafadot&repo=rafadot&theme=react)](https://github.com/rafadot/rafadot)
+
 ## Main Skills
 <div><br/></div>
 <div style="display:inline_block">
