@@ -20,8 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadot&layout=compact&theme=radical&bg_color=DEG,a49aff,616cdc,203d8c,001242,000002)](https://github.com/rafadot/github-readme-stats) -->
 
-![Snake animation](https://github.com/rafadot/rafadot/blob/output/github-contribution-grid-snake.svg)
-
 ## Main Skills
 <div><br/></div>
 <div style="display:inline_block">
