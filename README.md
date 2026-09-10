@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Rafael Aires ✌️😉
+# Olá, eu sou o Rafael Aires ✌️😉 (Conta não direcionada para uso profissional/corporativo)
 <div><br/></div>
 
 ## Se quiser falar comigo 👇
